@@ -1,5 +1,7 @@
-<h1>Hi, I'm Miteshkumar Chaudhari! <br/> 
-<a href="https://github.com/mitesh72925/">Cybersecurity Enthusiast</a> 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Hack&size=25&pause=1500&color=E12300&width=495&height=35&lines=Hi+I'm+Miteshkumar+Chaudhari+(R4VJ1))](https://www.linkedin.com/in/mitesh72925/) <br/>
+<a href="https://www.linkedin.com/in/mitesh72925/"><img src="https://readme-typing-svg.demolab.com?font=Hack&size=22&pause=1000&color=E12300&width=300&height=35&lines=Cybersecurity+Enthusiast" alt="Typing SVG" /></a>
+
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
