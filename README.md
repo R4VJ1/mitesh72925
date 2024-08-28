@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b>Azure Sentinel</b>
+  - [Using-Azure-Sentinel-to-Map-Live-Cyber-Attacks](https://github.com/mitesh72925/Using-Azure-Sentinel-to-Map-Live-Cyber-Attacks)
 
 
 <h2> 🤳 Connect with me:</h2>
