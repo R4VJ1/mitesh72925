@@ -9,6 +9,8 @@
 - <b>Azure Sentinel</b>
   - [Using-Azure-Sentinel-to-Map-Live-Cyber-Attacks](https://github.com/mitesh72925/Using-Azure-Sentinel-to-Map-Live-Cyber-Attacks)
 
+- <b>Vulnerability Management Lab</b>
+  - [Vulnerability Management Lab using Nessus Essentials](https://github.com/mitesh72925/Vulnerability-Management-Lab)
 
 
 
